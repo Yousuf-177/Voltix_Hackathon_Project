@@ -5,6 +5,8 @@ This repository is developed by **Team Voltix** for the **Hack Of Thrones**.
 It implements a YOLO-based object detection model trained on the **Falcon Duality AI dataset** to identify seven safety-related objects.
 
 The model is designed to detect **7 safety-related objects** from images and videos.
+
+### [**Prototype Demo Link**](https://youtu.be/saBL5PV4_QM) 
 ---
 
 ## 🧠 Dataset Overview
