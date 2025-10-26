@@ -204,23 +204,21 @@ Interpret the results as follows:
 
 ---
 
----
-
 ## 📁 Repository Structure
 
 ```
 📦 Voltix
- ┣ 📂 examples/
- ┣ 📂 runs/
- ┣ 📜 classes.txt
- ┣ 📜 train.py
- ┣ 📜 predict.py
- ┣ 📜 visualize.py
- ┣ 📜 yolov8s.pt
- ┣ 📜 requirements.txt
- ┣ 📜 README.md
- ┣ 📜 yolo_detect.py
- ┗ 📜 yolo_params.yaml
+ ┣  📂 models
+ |   ┣ 📂 assets
+ |   ┣ 📂 runs/detecs
+ |   ┣ 📜 predict.py
+ |   ┣ 📜 recquirement.txt
+ |   ┣ 📜 train.py
+ |   ┣ 📜 yolo_params.yaml
+ |   ┗ 📜 yolov8s.pt
+ ┣  📜 README.md
+ ┗  📜 Hackathon Report — Team Voltix
+ 
 ```
 
 ---
