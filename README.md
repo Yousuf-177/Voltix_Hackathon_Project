@@ -27,14 +27,15 @@ You can get the dataset for training as well as testing dataset on [**Falcon Dua
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Yousuf-177/Voltix.git
-cd Voltix
+git clone https://github.com/Yousuf-177/Voltix_Hackathon_Project
+cd Voltix_Hackathon_Project
 ```
-### 2️⃣ Navigate to model Directory
+### 2️⃣ Unzip model.zip file
 
-
+Then Navigate to `model` directory
 
 ```bash
+unzip -q model.zip -d model
 cd model
 ```
 
@@ -198,7 +199,7 @@ Interpret the results as follows:
 
 ## 🧾 Notes
 
-- Modify hyperparameters in `config.yaml` or directly in the training command for optimization.
+- Modify hyperparameters in the training command for optimization.
 - Ensure the dataset is correctly annotated in YOLO format (one `.txt` file per image).
 - Use GPU for faster training and inference (`torch.cuda.is_available()`).
 
