@@ -1,5 +1,0 @@
-train: ./assets/exampler_datasets/train/images
-val: ./assets/exampler_datasets/val/images
-test: ./assets/exampler_datasets/test/images
-nc: 7
-names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         

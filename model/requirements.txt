@@ -1,6 +1,0 @@
-ultralytics
-opencv-python
-PyYAML
-numpy
-scikit-learn
-torch
