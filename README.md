@@ -27,7 +27,7 @@ You can get the dataset for training as well as testing dataset on [**Falcon Dua
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Yousuf-177/Voltix_Hackathon_Project
+git clone https://github.com/Yousuf-177/Voltix_Hackathon_Project.git
 cd Voltix_Hackathon_Project
 ```
 ### 2️⃣ Unzip model.zip file
