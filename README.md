@@ -152,10 +152,10 @@ yolo detect val model=runs/detect/train/weights/best.pt data=dataset/data.yaml
 
 | Metric                   | Value | Notes                                                 |
 | :----------------------- | :---: | :---------------------------------------------------- |
-| **mAP@0.5**              | 0.794 | (Mean Average Precision at IoU threshold 0.5)         |
+| **mAP@0.5**              | 0.853 | (Mean Average Precision at IoU threshold 0.5)         |
 | **Precision**            | 0.993 | (Proportion of correct positive predictions)          |
 | **Recall**               | 0.81  | (Proportion of actual positives correctly identified) |
-| **F1-Score**             |0.80 at 0.356| Harmonic mean of precision and recall        |
+| **F1-Score**             | 0.85  |  Harmonic mean of precision and recall                |
 
 ---
 
